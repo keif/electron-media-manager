@@ -1,0 +1,8 @@
+{
+    "eslintIntegration": true,
+    "printWidth": 140,
+    "quote-props": "always",
+    "singleQuote": false,
+    "tabWidth": 4,
+    "useTabs": false
+}
